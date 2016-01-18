@@ -8,5 +8,16 @@
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+  "hubot-github-assign-issues",
+  "hubot-github-compare",
+  "hubot-github-create-issues",
+  "hubot-github-create-pullrequests",
+  "hubot-github-identity",
+  "hubot-github-issues",
+  "hubot-github-merge",
+  "hubot-github-notify",
+  "hubot-github-pr-reporter",
+  "hubot-github-repo-event-notifier",
+  "hubot-github-templated-issues"
 ]
